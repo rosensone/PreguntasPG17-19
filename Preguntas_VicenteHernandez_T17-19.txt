@@ -1,0 +1,84 @@
+Tema 17
+
+1- ¿Cuál de las siguientes características es propia de las Bases De Datos relaciones?
+	a) La información esta estructurada de manera aleatoria en ficheros binarios.
+	b) El nombre de las tablas son únicos. (CORRECTA)	
+	c) El nombre de las tablas pueden ser identicos.
+	d) Cada tabla se tiene un identificador único llamado: clave foránea.
+
+2- ¿Qué significan las siglas CRUD?
+	a) Create Read Update Delete. (CORRECTA)
+	b) Create Replace Update Delete.
+	c) Create Read Upload Delete.
+	d) Create Replace Upload Delete.
+
+3- El conector Java-MySQL...
+	a) Es una biblioteca que ofrece las utilidades para conectar programas con bases de datos. (CORRECTA)
+	b) Es un método que ofrece las utilidades para conectar programas con bases de datos.
+	c) Es una clase externa que ofrece las utilidades para conectar programas con bases de datos.
+	d) Es una clase de Maven en la que nos permite conectar programas a nuestras bases de datos.
+
+4- Para conectar y desconectar a la base de datos utilizamos...
+	a) String conexion = "conectar y cerrar conexion";
+	b) .getConnection y .disconnect
+	c) .getConnection y .close (CORRECTA)
+	d) .startConnection y .stopConnection
+
+5- ¿Qué diferencia una consulta de una inserción?
+	a) En una consulta insertamos datos mientras que una insercion solo obtenemos datos.
+	b) Una inserción es similar a una consulta pero actualiza registros existentes.
+	c) Todas son correctas.
+	d) En una consulta solo obtenemos datos mientras que en una inserción insertamos datos nuevos a la Base de 	   datos.  (CORRECTA)
+
+6- La clase Statment... ¿Qué nos permite principalmente?
+	a) Instanciar objetos que devuelven los resultados de las consultas SQL.
+	b) Instanciar objetos que utilizaremos para realizar las consultas SQL. (CORRECTA)
+	c) Lanzar excepciones SQL.
+	d) Instanciar objetos donde se almacenará nuestra conexión.
+
+
+TEMA 19
+
+1- En las consultas DB40, ¿Qué quiere decir las siglas NQ?
+	a) NoQueries.
+	b) NoQuiero.
+	c) NativeQueries. (CORRECTA)
+	d) NoodleQueries.
+
+2- ¿Cuál de estas limitaciones es propia de QBE?
+	a) No podemos consultar por 0 o campos = null. (CORRECTA)
+	b) No podemos utilizar constructores.
+	c) Permite solo consultas avanzadas.
+	d) QBE no tiene limitaciones propias.
+
+3- ¿Cuál de estas formas de consultas DB40 tiene API interna?
+	a) QBE
+	b) JDBC
+	c) SQLite
+	d) SODA (CORRECTA)
+
+4- ¿Qué entendemos por consultas avanzadas en QBE?
+	a) Aquellas que hacen uso de >, <, AND, OR, NOT. (CORRECTA)
+	b) En las cuales se pasa un ejemplo por un pdf.
+	c) Aquellas en las que se emplea un constructor para realizarlas.
+	d) Aquellas en las cuales se involucran mas de una tabla.
+
+5- ¿Que funcionalidad tiene la clase Constraint en SODA?
+	a) Las que nos permite crear las consultas SODA.
+	b) Las que nos permite manipular las bases de datos.
+	c) Las que nos permite agregar restricciones a las consultas SODA. (CORRECTA)
+	d) Liberar las limitaciones que tiene QBE.
+
+6- ¿Que funcionalidad tiene la clase Query?
+	a) Nos permite crear las consultas SODA. (CORRECTA)
+	b) Crear el constructor para las consultas SODA.
+	c) Las que nos permite manipular las bases de datos.
+	d) Instanciar los objetos donde se almacenará nuestra conexión.
+
+
+
+
+
+
+
+
