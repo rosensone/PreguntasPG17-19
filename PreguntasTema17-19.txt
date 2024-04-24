@@ -1,0 +1,78 @@
+Preguntas del TEMA 17
+
+1)¿Siempre que vayamos a realizar una operacion sobre una base de datos deberemos?
+
+	a) Conectar a la base de datos, realizar las operaciones, cerrar la base de datos (correcta)
+	b) Conectar a la base de datos, realizar las pruebas pertinentes, mantener la conexion
+	c) Realizar las pruebas en la base de datos
+	d) Ninguna es correcta
+
+2) ¿Para que sirve la clase Connection?
+	a) Para realizar una consulta
+	b) Para instanciar un objeto donde se almacenara nuestra conexion (correcta)
+	c) Para eliminar filas
+	d) Para realizar la insercion de datos en una tabla conectada a una base de datos
+
+3) ¿ Como se realiza la eliminacion de datos de una tabla?
+	a) INSERT
+	B) UPDATE
+	C) DELETE (Correcta)
+	D) SELECT
+
+
+4) ¿Cual de estas sentencias es para realizar una actualizacion de datos?
+	a) SELECT * FROM Alumnos WHERE año >=18
+	b) UPDATE Alumnos SET Nombre='Leo' WHERE Dni='555666P' (Correcta)
+	c) SELECT * FROM Alumnos
+	d) Ninguna es correcta
+
+5) ¿Para que sirve crear un objeto de la clase Statement?
+	a) Sirve para poder eliminar datos
+	b) Su uso es para el guardado de informacion
+	c) Va a obtener la base de datos para poder realizar una accion sobre ella (Correcta)
+	d) Va a obtener la base de datos para cerrarla y que no falle la conexion a la tabla
+
+6) ¿Como vamos a realizar el tratamiento de excepciones?
+	a) Con la clausula Finally
+	b) Mediante el uso de condiciones if-else
+	c) Con do while()
+	d) Con el uso de Try-Catch (Correcta)
+
+Preguntas del TEMA 19
+
+1) ¿Las bases de datos embebidas dependen un SGBD?
+	a) Si dependen un SGBD
+	b) Si, pero no es obligatorio
+	c) No dependen de un SGBD (Correcta)
+	d) Las bases de datos embebidas son un SGBD
+
+2) ¿Para que nos sirve la clase Query?
+	a) Para crear bases de datos
+	b) Nos va a permitir crear las consultas SODA (Correcta)
+	c) Para cerrar la base de datos
+	d) Para poder utilizar el SGBD
+
+3) ¿Cuales son las limitaciones de QBE?
+	a) Permite consultas avanzadas
+	b) No necesita constructor
+	c) No permite consultas avanzadas (Correcta)
+	d) Ninguna de las anteriores es una limitacion
+
+4) ¿En las consultas DB4O que significan las siglas QBE?
+	a) Query by Examen
+	b) Querry By Example
+	c) Ninguna es correcta
+	d) Query By Example (Correcta)
+
+5) ¿Para que utilizamos las consultas SODA?
+	a) Para que el SGBD funcione mejor
+	b) Para realizar consultas dinamicas (Correcta)
+	c) Para que con las consultas DB40 no produzcan fallos
+	d) Para que el QBE sea compatible
+
+6) ¿ Cual de estas interfaces es la principal y la recomendada por los
+	desarrolladores de DB4O?
+	a) Query By Example
+	b) Native Queries (Correcta)
+	c) SODA
+	d) Simple Object Data Access
