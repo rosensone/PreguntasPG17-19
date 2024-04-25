@@ -1,0 +1,75 @@
+PreguntasTest Tema 17:
+
+1. ¿Cuál es una característica común de las bases de datos relacionales?
+a) Almacenamiento en ficheros
+b) Uso de tablas para almacenar datos [correcta]
+c) Utilización de JSON como formato principal
+d) Conexión directa con sistemas de almacenamiento en la nube
+
+2. ¿Qué operaciones básicas se pueden realizar en una base de datos relacional?
+a) Actualización y eliminación de archivos
+b) Transferencia de datos entre servidores
+c) Inserción, consulta, borrado y modificación de datos [correcta]
+d) Compilación y ejecución de código SQL
+
+3. ¿Cuál es un componente esencial para conectar un programa Java con una base de datos MySQL?
+a) JDK (Java Development Kit)
+b) NetBeans IDE
+c) XAMPP
+d) Conector MySQL-Java [correcta]
+
+4. ¿Qué clase se utiliza para gestionar las excepciones relacionadas con SQL en Java?
+a) SQLConnectorException
+b) DatabaseException
+c) SQLException [correcta]
+d) ConnectionErrorException
+
+5. ¿Cuál es una ventaja de utilizar una interfaz gráfica en conjunto con una base de datos?
+a) Mayor complejidad en la gestión de datos
+b) Menor interacción con el usuario
+c) Facilita la visualización y gestión de la información [correcta]
+d) Reducción del rendimiento del programa
+
+6. ¿Cuál es una buena práctica al trabajar con bases de datos en Java?
+a) No manejar excepciones relacionadas con SQL
+b) Cerrar las conexiones a la base de datos dentro de un bloque try [correcta]
+c) Repetir el código para ejecutar consultas
+d) Utilizar sentencias SQL directamente en el código sin validarlas
+
+PreguntasTest Tema 19:
+
+1. ¿Cuál de las siguientes afirmaciones describe mejor las consultas SODA en comparación con las consultas QBE?
+a) Las consultas SODA son más básicas y limitadas.
+b) Las consultas SODA son más lentas que las consultas QBE.
+c) Las consultas SODA son más versátiles y permiten realizar consultas más complejas.
+d) Las consultas SODA solo pueden ser utilizadas en bases de datos relacionales. [Correcta]
+
+¿Cuál es una limitación de las consultas QBE en comparación con las consultas SODA?
+a) Las consultas QBE son más rápidas.
+b) Las consultas QBE permiten realizar consultas dinámicas.
+c) Las consultas QBE pueden utilizar operadores lógicos como AND y OR.
+d) Las consultas QBE requieren proporcionar un ejemplo y tienen limitaciones en la consulta. [Correcta]
+
+¿Cuándo es preferible utilizar una base de datos orientada a objetos en lugar de una base de datos relacional?
+a) En proyectos donde se requiere una gestión sencilla de datos.
+b) En proyectos con datos complejos o manejo de Big Data. [Correcta]
+c) En proyectos donde se necesita una alta disponibilidad de datos.
+d) En proyectos donde se busca una fácil escalabilidad de la base de datos.
+
+¿Cuál es una característica de las consultas SODA que las hace más potentes que las consultas QBE?
+a) Las consultas SODA son más lentas en comparación con las consultas QBE.
+b) Las consultas SODA no permiten utilizar operadores lógicos como AND y OR.
+c) Las consultas SODA permiten generar consultas dinámicas y son más rápidas. [Correcta]
+d) Las consultas SODA solo pueden ser utilizadas en bases de datos embebidas.
+
+¿Por qué es importante utilizar el patrón Modelo Vista-Controlador (MVC) en el desarrollo de software?
+a) El patrón MVC no es útil en el desarrollo de software.
+b) El patrón MVC ayuda a organizar el proyecto y separar la lógica de negocio de la interfaz de usuario. [Correcta]
+c) El patrón MVC dificulta la colaboración entre desarrolladores en un equipo.
+d) El patrón MVC solo se aplica en proyectos pequeños.
+
+¿Qué tipo de consultas permite realizar SODA que QBE no puede?
+a) Consultas que implican la utilización de bases de datos relacionales.
+b) Consultas que requieren la definición de ejemplos y tienen limitaciones en la consulta.
+c) Consultas que involucran datos estructurados y consultas dinámicas. [Correcta]
+d) Consultas que son más lentas que las consultas QBE.
